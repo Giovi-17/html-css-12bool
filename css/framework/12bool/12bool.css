@@ -21,20 +21,6 @@
     
 }
 
-.box{
-    min-height: 50px;
-    padding: 10px;
-    background-color: #006cfa;
-    border: 1px solid white;
-    color: white;
-    font-size: 15px;
-}
-
-.nested-box{
-    background-color: #00e165;
-    width: 100%;
-}
-
 /* Divisione delle colonne in dodicesimi */
 .col-1{
     width: calc( ( 100% / 12 ) * 1 );
