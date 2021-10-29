@@ -1,0 +1,12 @@
+/* Centratura */
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Spessore */
+.bold{
+    font-weight: bold;
+    font-size: 20px;
+}
